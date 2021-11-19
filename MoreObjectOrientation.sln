@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bank", "Bank\Bank.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common", "Common\Common.csproj", "{9BC21C2D-B623-4746-94B6-66545C162879}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoreObjectOrientation", "MoreObjectOrientation\MoreObjectOrientation.csproj", "{84871015-5F2E-40B6-B419-BC9AC1CA024E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SodaMachine", "SodaMachine\SodaMachine.csproj", "{1430DA88-ADFD-49CE-8F54-7DFDFF24C86C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{9BC21C2D-B623-4746-94B6-66545C162879}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BC21C2D-B623-4746-94B6-66545C162879}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BC21C2D-B623-4746-94B6-66545C162879}.Release|Any CPU.Build.0 = Release|Any CPU
-		{84871015-5F2E-40B6-B419-BC9AC1CA024E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{84871015-5F2E-40B6-B419-BC9AC1CA024E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{84871015-5F2E-40B6-B419-BC9AC1CA024E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{84871015-5F2E-40B6-B419-BC9AC1CA024E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1430DA88-ADFD-49CE-8F54-7DFDFF24C86C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1430DA88-ADFD-49CE-8F54-7DFDFF24C86C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1430DA88-ADFD-49CE-8F54-7DFDFF24C86C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1430DA88-ADFD-49CE-8F54-7DFDFF24C86C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

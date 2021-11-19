@@ -3,3 +3,9 @@
 ################################################################################
 
 /.vs/MoreObjectOrientation/v16
+/Bank/obj
+/Common/bin/Debug/netcoreapp3.1
+/Common/obj/Debug/netcoreapp3.1
+/Common/obj
+/SodaMachine/bin/Debug/netcoreapp3.1
+/SodaMachine/obj
